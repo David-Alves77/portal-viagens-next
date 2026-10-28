@@ -1,10 +1,10 @@
-
+﻿
 import type { Metadata } from "next";
 import Layout from "./components/Layout";
 
 export const metadata: Metadata = {
   title: "Portal de Viagens",
-  description: "Conheça destinos incríveis para sua próxima viagem.",
+  description: "ConheÃ§a destinos incrÃ­veis para sua prÃ³xima viagem.",
 };
 
 export default function RootLayout({
@@ -20,4 +20,5 @@ export default function RootLayout({
     </html>
   );
 }
+
 
